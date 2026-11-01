@@ -5,7 +5,7 @@
 ## 内容
 
 - `index.html`：MP4動画再生、字幕、スライド再生、要点検索、出典、配布資料へのリンク
-- `assets/tokubetsu-shien-summary.mp4`：Canvaから書き出した約90秒のMP4動画
+- `assets/tokubetsu-shien-summary-v2.mp4`：Canvaから書き出した約90秒のMP4動画
 - `assets/scene-01.svg`〜`scene-06.svg`：解説用の図版
 - `90秒解説台本.txt`、`字幕.srt`、`字幕.vtt`：ナレーション原稿と字幕
 - `配布資料.pdf`：A4一枚の要点整理
